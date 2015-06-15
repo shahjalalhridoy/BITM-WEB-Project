@@ -1,0 +1,96 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+body
+{
+}
+
+.wrapper
+{
+    width: 960px;
+    margin: 0 auto;
+    /*background: #C6C6C6;*/
+  
+}
+
+header
+{
+    width: 960px;
+   
+}
+.footer {
+     width: 960px;
+    text-align: center;
+    height: 55px;
+    padding-top: 22px;
+   
+}
+
+    header h1
+    {
+        text-align: center;
+        font-size: 50px;
+        font-weight: bold;
+        background: #618C5C;
+        color: white;
+        padding:10px 0;
+        font-family: 'Indie Flower', cursive;
+    }
+    h2 {
+        font-family: 'Indie Flower', cursive;
+       
+    }
+nav {
+    width:960px;
+}
+    nav ul {
+
+    }
+        nav ul li {
+            display:inline;
+        }
+        nav ul li a{
+            width:238px;
+            display:inline-block;
+            float:left;
+            background:cornflowerblue;
+            border:1px solid black;
+            text-align:center;
+            text-decoration:none;
+            padding:10px 0;
+            color:white;
+            font-weight:bold;
+            text-transform:uppercase;
+
+        }
+        nav ul li a:hover{
+            color:cornflowerblue;
+            background:white;
+
+        }
+
+.cotainer
+{
+    width: 960px;
+    
+}
+
+.content1
+{
+    width: 908px;
+    border: 1px solid black;
+    padding: 10px;
+    padding-left: 40px;
+}
+
+    .content1 fieldset
+    {
+        width: 450px;
+        border: 1px solid blue;
+        padding: 20px;
+    }
+
+.content2
+{
+    width: 938px;
+    border: 1px solid black;
+    padding: 10px;
+}

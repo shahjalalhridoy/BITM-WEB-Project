@@ -1,0 +1,17 @@
+G:\Visual Studio Project\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.dll
+G:\Visual Studio Project\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.pdb
+G:\Visual Studio Project\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.csprojResolveAssemblyReference.cache
+G:\Visual Studio Project\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.dll
+G:\Visual Studio Project\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.pdb
+F:\102889\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.dll.config
+F:\102889\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.dll
+F:\102889\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.pdb
+F:\102889\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.csprojResolveAssemblyReference.cache
+F:\102889\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.dll
+F:\102889\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.pdb
+G:\My Test Dot Net HRIDOY\PROJECT web\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.dll.config
+G:\My Test Dot Net HRIDOY\PROJECT web\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.dll
+G:\My Test Dot Net HRIDOY\PROJECT web\CountryAndCityInformationWeb\CountryAndCityInformationWeb\bin\CountryAndCityInformationWeb.pdb
+G:\My Test Dot Net HRIDOY\PROJECT web\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.csprojResolveAssemblyReference.cache
+G:\My Test Dot Net HRIDOY\PROJECT web\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.dll
+G:\My Test Dot Net HRIDOY\PROJECT web\CountryAndCityInformationWeb\CountryAndCityInformationWeb\obj\Debug\CountryAndCityInformationWeb.pdb
